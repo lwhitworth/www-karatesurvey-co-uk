@@ -23,4 +23,4 @@ Most definitely! I want this survey to be a resource for all going forward so th
 My name is Luke. I'm a karate student based in Bedfordshire and I have been training since 2003. Feel free to [email me](mailto:luke@karatesurvey.co.uk) if you want to discuss the survey further.
 
 ## Why are you doing this?
-In addition to the goals laid out earlier, as part of my next grading I have been tasked with writing an essay relating to Karate of my choosing. This is the start of that essay, I intend to write about the formation of this survey, how I publicised it and what the results were. I thank you all in advance for your help with this part of my grading.
+In addition to the goals laid out earlier, as part of my next grading I have been tasked with writing an essay relating to Karate of my choosing. This is the start of that essay, I intend to write about the formation of this survey, how I publicised it and what the results were. I thank you all in advance for your help with this part of my grading. 
