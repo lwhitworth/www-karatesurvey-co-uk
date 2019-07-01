@@ -19,7 +19,7 @@ a {
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
+  background-color: #141e30;
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
@@ -48,7 +48,8 @@ a {
   color: #fff;
   text-align: center;
   background-color: #141E30;
-  background-image: linear-gradient(120deg, #243B55, #141E30); }
+  background-image: url("/header.jpg");
+  background-size: cover; }
   @media screen and (min-width: 64em) {
     .page-header {
       padding: 5rem 6rem; } }
@@ -115,7 +116,7 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #159957; }
+    color: #243B55; }
   .main-content p {
     margin-bottom: 1em; }
   .main-content code {
