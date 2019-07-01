@@ -61,18 +61,10 @@ pygmentsStyle = "pygments"
 
 [menu]
   [[menu.nav]]
-    name = "Blog"
+    name = "Home"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Survey Coming Soon"
+    url = "#"
     weight = 2
-  [[menu.nav]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-  [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 4
